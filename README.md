@@ -4,11 +4,11 @@
 
 A simple e-commerce mobile app, using:
 
-- React Native
+- React Native CLI
 - TypeScript
 - Redux (with Redux Toolkit)
 - Reanimated
-- React Navigation
+- React Navigation (with the Native Stack Navigation)
 - And other libraries such as FastImage, dayjs and @gorhom/bottom-sheet
 
 ## How to run
